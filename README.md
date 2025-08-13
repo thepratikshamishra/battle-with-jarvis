@@ -43,10 +43,10 @@ python main.py
 ```
 ---
 ## 📌 Rules
--**Stone beats Scissor**
--**Paper beats Stone**
--**Scissor beats Paper**
--**Same choice? It’s a draw! 😎**
+- **Stone beats Scissor**
+- **Paper beats Stone**
+- **Scissor beats Paper**
+- **Same choice? It’s a draw! 😎**
 ---
 ## 🙌 Contributing
 -Contributions are welcome!
