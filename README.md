@@ -49,5 +49,5 @@ python main.py
 - **Same choice? It’s a draw! 😎**
 ---
 ## 🙌 Contributing
--Contributions are welcome!
--If you’d like to improve this game or add new features, feel free to fork the repo and submit a pull request.
+- Contributions are welcome!
+- If you’d like to improve this game or add new features, feel free to fork the repo and submit a pull request.
