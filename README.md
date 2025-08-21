@@ -2,7 +2,7 @@
 
 **Author:** Pratiksha Mishra  
 🌐 [GitHub](https://github.com/thepratikshamishra)  
-💼 [LinkedIn](Add your LinkedIn link here)  
+💼 [LinkedIn] 
 
 ---
 
