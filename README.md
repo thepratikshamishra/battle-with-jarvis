@@ -1,8 +1,8 @@
 # 🤖 Battle with Jarvis
 
 **Author:** Pratiksha Mishra  
-🌐 [GitHub](https://github.com/thepratikshamishra)  
-💼 [LinkedIn] 
+🌐 [thepratikshamishra](https://github.com/thepratikshamishra)  
+💼 [Pratiksha Mishra](www.linkedin.com/in/the-pratiksha-mishra) 
 
 ---
 
