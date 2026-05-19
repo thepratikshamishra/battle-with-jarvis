@@ -4,7 +4,7 @@
 🌐 [thepratikshamishra](https://github.com/thepratikshamishra)  
 💼 [Pratiksha Mishra](www.linkedin.com/in/the-pratiksha-mishra) 
 
----
+---      
 
 ## 📜 Description
 Beginner-friendly Python console game inspired bt Rock-Paper-Scissors mechanics.
@@ -39,7 +39,7 @@ git clone https://github.com/thepratikshamishra/battle-with-jarvis.git
 ```bash
 cd battle-with-jarvis
 ```
-**Run the game**
+**Run the game**  
 ```bash
 python main.py
 ```
