@@ -8,7 +8,7 @@ Description:
     A fun and interactive console-based Python game where the player
     competes against Jarvis (an AI opponent) in the classic
     Rock, Paper, Scissors challenge. Jarvis responds with witty,
-    emoji-filled messages, making each round engaging.
+    emoji-filled messages, making each round engaging.                                    
 
 Features:
     - Play Rock, Paper, Scissors with AI
