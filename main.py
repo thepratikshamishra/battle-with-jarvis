@@ -7,7 +7,7 @@ GitHub: https://github.com/thepratikshamishra
 Description:    
     A fun and interactive console-based Python game where the player
     competes against Jarvis (an AI opponent) in the classic
-    Rock, Paper, Scissors challenge. Jarvis responds with witty,
+    Rock, Paper, Scissors challenge. Jarvis responds with witty,     
     emoji-filled messages, making each round engaging.                                    
 
 Features:
