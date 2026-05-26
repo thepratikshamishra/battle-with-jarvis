@@ -4,7 +4,7 @@ Battle with Jarvis
 Author: Pratiksha Mishra                               
 GitHub: https://github.com/thepratikshamishra
 
-Description:
+Description:    
     A fun and interactive console-based Python game where the player
     competes against Jarvis (an AI opponent) in the classic
     Rock, Paper, Scissors challenge. Jarvis responds with witty,
