@@ -1,7 +1,7 @@
 """
 Battle with Jarvis
 -------------------
-Author: Pratiksha Mishra
+Author: Pratiksha Mishra                               
 GitHub: https://github.com/thepratikshamishra
 
 Description:
