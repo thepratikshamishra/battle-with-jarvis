@@ -2,7 +2,7 @@
 Battle with Jarvis
 -------------------
 Author: Pratiksha Mishra                               
-GitHub: https://github.com/thepratikshamishra
+GitHub: https://github.com/thepratikshamishra                               
 
 Description:    
     A fun and interactive console-based Python game where the player
