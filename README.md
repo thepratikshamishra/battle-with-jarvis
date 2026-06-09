@@ -5,7 +5,7 @@
 💼 [Pratiksha Mishra](www.linkedin.com/in/the-pratiksha-mishra) 
 
 ---      
-       
+          
 ## 📜 Description
 Beginner-friendly Python console game inspired bt Rock-Paper-Scissors mechanics.
  
