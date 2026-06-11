@@ -44,7 +44,7 @@ cd battle-with-jarvis
 python main.py
 ```
 ---
-## 📌 Rules
+## 📌 Rules    
 - **Stone beats Scissor**
 - **Paper beats Stone**
 - **Scissor beats Paper**
