@@ -24,7 +24,7 @@ Test your luck, track your score, and see if you can outsmart Jarvis!
 ---
 
 ## 📂 Project Structure
-```perl
+```perl       
 battle-with-jarvis/
 │── main.py       # Main game logic
 │── README.md     # Project documentation
