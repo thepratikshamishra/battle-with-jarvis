@@ -6,7 +6,7 @@
 
 ---      
           
-## 📜 Description
+## 📜 Description 
 Beginner-friendly Python console game inspired bt Rock-Paper-Scissors mechanics.                               
  
 Battle with Jarvis is a fun and interactive Python console game where you challenge **Jarvis** in a classic match of **Stone 🪨, Paper 📄, and Scissor ✂️**.  
